@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 project(example_sdl2_sdlrenderer2)
 
 set(CMAKE_CXX_STANDARD 20) # Set C++ standard to C++20
-set(CMAKE_EXPORT_COMPILE_COMMANDS ONco)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 set(IMGUI_DIR "../..") # Set the relative path to imgui directory
 
