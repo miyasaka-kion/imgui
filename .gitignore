@@ -1,6 +1,13 @@
 ## OSX artifacts
 .DS_Store
 
+## CMake build files
+bin/
+build/
+
+## clangd cache
+.cache/
+
 ## Dear ImGui artifacts
 imgui.ini
 
