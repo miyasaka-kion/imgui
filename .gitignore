@@ -5,6 +5,9 @@
 bin/
 build/
 
+## clangd cache
+.cache/
+
 ## Dear ImGui artifacts
 imgui.ini
 
